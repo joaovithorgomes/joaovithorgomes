@@ -73,6 +73,6 @@ Tenho experiência em projetos variados, desde automações complexas até bots 
 
 ## 📫 Entre em Contato  
 
-- 📧 **Email:** [seuemail@email.com](mailto:seuemail@email.com)  
-- 🏢 **LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/seu-linkedin/)  
+- 📧 **Email:** [joaovithor.gv@gmail.com](mailto:joaovithor.gv@gmail.com)  
+- 🏢 **LinkedIn:** [joão-vithor-gomes-vieira](https://www.linkedin.com/in/jo%C3%A3o-vithor-gomes-vieira-83a01a170/)  
 - 💻 **GitHub:** [joaovithorgomes](https://github.com/joaovithorgomes)  
