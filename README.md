@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou [Seu Nome]</h1>
+<h1 align="center">👋 Olá! Eu sou João Vithor Gomes</h1>
 
 <p align="center">
   Desenvolvedor Full Stack 🚀 | Apaixonado por resolver problemas com tecnologia  
@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/SeuUsuarioGitHub"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://github.com/joaovithorgomes"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -61,8 +61,12 @@ Tenho experiência em projetos variados, desde automações complexas até bots 
 ## 📊 Estatísticas GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeuUsuarioGitHub&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovithorgomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaovithorgomes&theme=radical&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovithorgomes&layout=compact&theme=radical" width="50%">
 </p>
 
 ---
@@ -71,4 +75,4 @@ Tenho experiência em projetos variados, desde automações complexas até bots 
 
 - 📧 **Email:** [seuemail@email.com](mailto:seuemail@email.com)  
 - 🏢 **LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/seu-linkedin/)  
-- 💻 **GitHub:** [SeuUsuarioGitHub](https://github.com/SeuUsuarioGitHub)  
+- 💻 **GitHub:** [joaovithorgomes](https://github.com/joaovithorgomes)  
