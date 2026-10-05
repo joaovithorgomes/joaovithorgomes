@@ -54,14 +54,27 @@ Desenvolvedor full stack com experiência em **back-end, front-end e infraestrut
 
 ## Projetos em destaque
 
-**Bot de arbitragem triangular** — `Go` `WebSockets` `Docker`
+**Bot de arbitragem triangular** — `Go` `WebSockets` `Docker`<br>
 Identifica e executa oportunidades de arbitragem entre pares de criptomoedas, integrado às exchanges Binance e Kraken via APIs REST e WebSocket.
 
-**Automação de notas fiscais (SEFAZ)** — `Python` `Go`
+**Automação de notas fiscais (SEFAZ)** — `Python` `Go`<br>
 Consulta e download de notas fiscais direto da SEFAZ com autenticação por certificado digital, com ambientes separados de homologação e produção.
 
-**Sistema de gestão empresarial** — `Next.js` `NestJS` `MongoDB` `Tailwind`
+**Sistema de gestão empresarial** — `Next.js` `NestJS` `MongoDB` `Tailwind`<br>
 Plataforma modular com controle de funcionários, estoque, vendas e financeiro, adaptável às necessidades de cada cliente.
+
+---
+
+## Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovithorgomes&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars,issues&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas">
+  <img src="https://streak-stats.demolab.com?user=joaovithorgomes&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovithorgomes&theme=tokyonight" width="100%" alt="Gráfico de contribuições">
+</p>
 
 ---
 
