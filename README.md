@@ -1,103 +1,80 @@
-<h1 align="center">👋 Olá! Eu sou João Vithor Gomes</h1>
+<h1 align="center">João Vithor Gomes Vieira</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack 🚀 | Apaixonado por resolver problemas com tecnologia  
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/joaovithorgomes"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"></a>
-</p>
-
----
-
-## 🚀 Sobre Mim  
-
-Sou um desenvolvedor com experiência em **back-end, front-end** e **DevOps**, sempre buscando criar sistemas eficientes, escaláveis e fáceis de usar. Minha paixão é transformar ideias em soluções reais, entregando valor por meio de código limpo e boas práticas.  
-
-Tenho experiência em projetos variados, desde automações complexas até bots de negociação e plataformas completas de SaaS. Sempre estou explorando novas tecnologias e aprendendo algo novo.  
-
----
-
-## 💻 Tecnologias & Ferramentas  
-
-### 🌐 Front-End  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-### ⚙️ Back-End  
-<p align="left">
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/-GoLang-00ADD8?style=flat&logo=go&logoColor=white" alt="GoLang" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
-</p>
-
-### 🛠 DevOps  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-Istio-466BB0?style=flat&logo=istio&logoColor=white" alt="Istio" />
-</p>
-
-### 🗄 Banco de Dados  
-<p align="left">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-</p>
-
----
-
-## 🛠 Projetos Recentes  
-
-### 🤖 **Bot de Arbitragem Triangular**  
-- Desenvolvi um bot de arbitragem para identificar e executar oportunidades entre pares de criptomoedas.  
-- Integração com exchanges como **Binance** e **Kraken**, utilizando **APIs REST/WS**.  
-- **Tecnologias usadas:** GoLang, Docker, WebSockets.  
-
-### 📜 **Automação de Notas Fiscais**  
-- Criei um sistema para buscar notas fiscais diretamente da **Sefaz**, com integração via certificado digital.  
-- Ambiente configurado para homologação e produção, garantindo segurança e desempenho.  
-- **Stack usada:** Python e GoLang.  
-
-### 🧩 **Sistema de Gestão Completo**  
-- Desenvolvi uma plataforma com controle de funcionários, estoques, vendas e financeiro.  
-- Personalização modular para atender diferentes necessidades de usuários.  
-- **Tecnologias usadas:** Front-end em **Next.js** e Tailwind, back-end em **NestJS** e MongoDB.  
-
----
-
-## 🏆 Certificações  
-
-- **Arquitetura de Software:** Domain Driven Design (DDD), Clean Architecture, SOLID  
-- **DevOps:** Kubernetes, Docker, Terraform  
-- **Service Mesh:** Istio  
-- **Integração Contínua:** CI/CD, Git Avançado  
-- **Modelagem:** Event Storming, Padrões Táticos  
-
----
-
-## 📊 Estatísticas GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovithorgomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joaovithorgomes&theme=radical&hide_border=true" width="48%">
+  <strong>Desenvolvedor Full Stack</strong> · Back-end, Front-end e DevOps · Automação, SaaS e IA
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovithorgomes&layout=compact&theme=radical" width="50%">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vithor-gomes-vieira-83a01a170/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:joaovithor.gv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 📫 Entre em Contato  
+## Sobre mim
 
-- 📧 **Email:** [joaovithor.gv@gmail.com](mailto:joaovithor.gv@gmail.com)  
-- 🏢 **LinkedIn:** [joão-vithor-gomes-vieira](https://www.linkedin.com/in/jo%C3%A3o-vithor-gomes-vieira-83a01a170/)  
-- 💻 **GitHub:** [joaovithorgomes](https://github.com/joaovithorgomes)  
+Desenvolvedor full stack com experiência em **back-end, front-end e infraestrutura**. Construo sistemas eficientes, escaláveis e fáceis de usar — de automações e integrações com órgãos públicos a plataformas SaaS completas.
+
+- 🔭 Foco atual: produtos SaaS, automação de processos e aplicações com IA
+- 🧱 Prática em arquitetura: DDD, Clean Architecture, SOLID e Event Storming
+- 💬 Aberto a conversas sobre projetos, freelas e oportunidades
+
+---
+
+## Stack
+
+**Front-end**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Back-end**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Banco de dados**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps e infraestrutura**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Projetos em destaque
+
+**Bot de arbitragem triangular** — `Go` `WebSockets` `Docker`
+Identifica e executa oportunidades de arbitragem entre pares de criptomoedas, integrado às exchanges Binance e Kraken via APIs REST e WebSocket.
+
+**Automação de notas fiscais (SEFAZ)** — `Python` `Go`
+Consulta e download de notas fiscais direto da SEFAZ com autenticação por certificado digital, com ambientes separados de homologação e produção.
+
+**Sistema de gestão empresarial** — `Next.js` `NestJS` `MongoDB` `Tailwind`
+Plataforma modular com controle de funcionários, estoque, vendas e financeiro, adaptável às necessidades de cada cliente.
+
+---
+
+## Formação e estudos
+
+- **Arquitetura de software:** Domain-Driven Design, Clean Architecture, SOLID
+- **Modelagem:** Event Storming e padrões táticos de DDD
+- **DevOps:** Docker, Kubernetes, Terraform, service mesh com Istio
+- **Engenharia:** CI/CD e Git avançado
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vithor-gomes-vieira-83a01a170/">LinkedIn</a> ·
+  <a href="mailto:joaovithor.gv@gmail.com">joaovithor.gv@gmail.com</a>
+</p>
