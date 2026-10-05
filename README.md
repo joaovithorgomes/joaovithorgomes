@@ -68,7 +68,7 @@ Plataforma modular com controle de funcionários, estoque, vendas e financeiro, 
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovithorgomes&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars,issues&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovithorgomes&show_icons=true&count_private=true&hide_rank=true&hide=stars,issues&theme=tokyonight&hide_border=true" height="165" alt="Estatísticas">
   <img src="https://streak-stats.demolab.com?user=joaovithorgomes&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições">
 </p>
 
